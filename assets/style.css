@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+
+body {
+  font-family: "Fira Code", monospace;
+  margin: auto;
+  padding: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #30a2ff;
+}
+/* Navbar Akhir */
+
+/* Section */
+section {
+  padding-top: 5.5rem;
+  background-color: #40c3ff50;
+}
+
+img {
+  width: 200px;
+}
+/* Section Akhir */
+
+/* Footer */
+footer {
+  background-color: #30a2ff;
+}
+/* Footer Akhir */
